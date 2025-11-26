@@ -112,3 +112,32 @@ a {
     border:1px solid #ccc; 
     border-radius:6px;
 }
+
+.delete-btn {
+  background-color: #dc3545; 
+  color: #fff;
+  border: none; 
+  border-radius: 6px;
+  padding: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  width: 100%;
+  text-align: center;
+}
+
+.back-btn {
+  display: block;
+  margin-top: 15px;
+  text-align: center;
+  background-color: #6c757d;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  text-decoration: none;
+  width: 100%;
+  transition: background-color 0.3s;
+}
+
+#productInfo {
+  margin-top: 50px; 
+}
